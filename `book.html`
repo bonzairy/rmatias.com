@@ -1,0 +1,35 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book - Ryan Matias</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <div class="nav-container">
+            <a href="index.html" class="logo">Ryan Matias</a>
+            <ul class="nav-links">
+                <li><a href="tv-film.html">TV & Film</a></li>
+                <li><a href="book.html">Book</a></li>
+                <li><a href="sketches.html">Sketches</a></li>
+                <li><a href="about.html">About</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="project-page">
+        <h1>My Book Title</h1>
+        <p>Description of your self-published book goes here.</p>
+        
+        <!-- Add your book images here -->
+        <!-- Example:
+        <img src="images/book-cover.webp" alt="Book Cover">
+        <img src="images/book-page1.webp" alt="Book Page 1">
+        -->
+    </div>
+</body>
+</html>
+```
