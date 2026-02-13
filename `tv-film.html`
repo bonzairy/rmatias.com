@@ -1,0 +1,36 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TV & Film - Ryan Matias</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <div class="nav-container">
+            <a href="index.html" class="logo">Ryan Matias</a>
+            <ul class="nav-links">
+                <li><a href="tv-film.html">TV & Film</a></li>
+                <li><a href="book.html">Book</a></li>
+                <li><a href="sketches.html">Sketches</a></li>
+                <li><a href="about.html">About</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="gallery-container">
+        <h1 style="margin-bottom: 3rem; font-weight: 300; font-size: 2.5rem;">TV & Film</h1>
+        <div class="gallery-grid">
+            <!-- Add your project thumbnails here -->
+            <!-- Example:
+            <a href="project1.html" class="gallery-item">
+                <img src="images/project1-thumb.webp" alt="Project 1">
+            </a>
+            -->
+        </div>
+    </div>
+</body>
+</html>
+```
